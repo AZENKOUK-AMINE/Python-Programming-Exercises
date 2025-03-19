@@ -70,18 +70,24 @@
     
 # print(fac(4))
 
-def sum(n):
-    if n==0:
-        return 0 
-    else : 
-        return n+sum(n-1) 
+# def sum(n):
+#     if n==0:
+#         return 0 
+#     else : 
+#         return n+sum(n-1) 
     
-print(sum(5))
-                                        #####
+# print(sum(5))
+#                                         #####
 # input a year and MONTHS AND PRINT THE DAYS OF THAT MONTH WITH MANY FUNCTIONS IN ONE CODE ######3##########SRP####
                                         #####                
 
     
+
+
+            
+            
+
+
 
 
 
