@@ -45,10 +45,10 @@ while True:
             computer_score+=1
         elif user_choice == 's' and random_choice=='p':
             print(f'your choice :{user_choice} - coputer choice :{random_choice}')
-            user_score+=1
+            user_score+=1 
     else :
         print("Invalid input!")
     
     
-# print('ff')
+
     
